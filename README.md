@@ -1,34 +1,39 @@
 <div align="center">
 
-# </ Dev >  
+# 👨‍💻  </ DeV >  💡 
 
-<img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" width="90%" height="380" alt="Developer Banner" style="background-color: transparent; border:3px solid purple; border-radius: 10px; margin: auto; max-width: 800px;">
+<img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" width="90%" height="280" alt="Developer Banner" style="background-color: transparent; border:3px solid purple; border-radius: 10px; margin: auto; max-width: 800px;">
 
 </div>
-
-
 
 <div align="center">
 
 # 💫 About Me:
   <div align="start" style="background-color: transparent; border:3px solid purple; padding: 20px; border-radius: 10px;  auto; max-width: 800px;">
 
-  📚 **Learning:** Web and Mobile Development  <br>
-  💻 **Current Focus:** Full-stack Development with Laravel, React, Next.js  <br>
-  👨‍💻 **Role:** Developer at Bakeli School of Technology  <br>
-  🚀 **Passionate About:** Building robust, scalable, and intuitive applications  <br>
-  🌱 **Volunteering:** Coaching and contributing to open-source projects to improve apps and help the community  <br>
-  🎯 **Goals for 2025:** Strengthen my skills in Python and Django, and develop complete and high-performance mobile applications  <br>
-  🏆 **Active In:** Participating in hackathons and development challenges  <br>
-  🌍 **Aspirations:** Delivering innovative technological solutions for education and social impact  <br>
-  📬 **Contact:** Always open to new ideas and collaborations. Let's build something impactful together — feel free to reach out!
+## 👤 I am Mamadou Barry.
+
+## Bio : 📝
+
+- **A passionate Full-stack developer, I build robust and scalable applications. Currently, I work at Bakeli School of Technology, where I develop innovative solutions to meet user needs. Outside of my work, I actively contribute to open-source projects and coach beginner developers, sharing my knowledge with the community. Curious and committed, I regularly participate in hackathons and development challenges to push the limits of my skills.**
+
+## My Journey & Goals : 🌟
+
+
+ - 📚 **Learning:** Web and Mobile Development  <br>
+ - 💻 **Current Focus:** Full-stack Development with Laravel, React, Next.js  <br>
+ - 👨‍💻 **Role:** Developer at Bakeli School of Technology  <br>
+ - 🚀 **Passionate About:** Building robust, scalable, and intuitive applications  <br>
+ - 🌱 **Volunteering:** Coaching and contributing to open-source projects to improve apps and help the community  <br>
+ - 🎯 **Goals for 2025:** Strengthen my skills in Python and Django, and develop complete and high-performance mobile applications  <br>
+ - 🏆 **Active In:** Participating in hackathons and development challenges  <br>
+ - 🌍 **Aspirations:** Delivering innovative technological solutions for education and social impact  <br>
+ - 📬 **Contact:** Always open to new ideas and collaborations. Let's build something impactful together — feel free to reach out!
 
   <div align="center" style="background-color: transparent; border:3px solid purple; padding: 0px; border-radius: 10px; margin: 20px auto; max-width: 800px;">
 
   # 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mamadou-barry-ba35772a4)
-  
-   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mamadou48994532) 
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100027917653578) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mamadoubarry4927/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mamadou-barry-ba35772a4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mamadou48994532) 
 
   </div>
   </div>
@@ -131,18 +136,20 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barrymamadou12345&theme=nightowl&hide_border=false" width="80%"  alt="GitHub Streak Stats" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=barrymamadou12345&theme=nightowl&hide_border=false" width="100%"  alt="GitHub Streak Stats" >
 </div>
+</br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=barrymamadou12345&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"  height="200px" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrymamadou12345&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="200px" alt="Top Languages">
 </div>
 
+
 <div align="center" style="background-color: transparent;padding: 20px; border-radius: 10px; margin: 20px auto; max-width: 800px;">
 
 ## 🔝 Top Contributed Repo
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=barrymamadou12345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%" height="300px" alt="GitHub Streak Stats" >
+<img src="https://github-contributor-stats.vercel.app/api?username=barrymamadou12345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"  alt="GitHub Streak Stats" >
 </div>
 
 ---
